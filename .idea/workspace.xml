@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95eefb5e-e8b9-45b7-9a83-ec4d016be2fe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/Java_Pratice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/src/dsAlgo/queue/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_Pratice/src/selenium/launchBrowser/LuanchFireFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/Pratice_Java_Interview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/Abstract1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/AbstractImplemention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/Class3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/ClassInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/Intrface1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/src/testPackage/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/src/main/java/som/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/src/main/java/som/CreateOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/src/main/java/som/OrderCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/src/main/java/som/ReleaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/src/main/java/som/SOMFLow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/src/main/java/som/ScheduleOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/multiLineOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/release.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/schedule.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/singleLineOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/constants/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/controllers/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/controllers/BrowserUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/controllers/WebControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/implemention/OrderCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/implemention/ReleaseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/implemention/ScheduleOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/implemention/WebImplemention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/serviceUtils/commonUtils/Webpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/serviceUtils/utils/PropertyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/somPages/Login_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/somPages/Open_Order_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/somPages/PickList_Assigment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/somPages/Ready_To_Pack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/somPages/Search_Order_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/main/resources/config/environment.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/src/test/java/com/som/view/testcases/OrderProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/xml/multiLineOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/xml/releaseOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/xml/scheduleOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOM/xml/singleLineOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/controller/baseinitializer/BaseInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/controller/oldSOM/SearchByOrderId/SearchByOrderIdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/controller/oldSOM/searchByParam/SearchByDate_Status.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/model/request/oldSOM/searchByOrderId/searchByOrderIdRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/model/request/oldSOM/searchByStatus/SearchByStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/model/response/oldSOM/searchByOrderId/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/model/response/oldSOM/searchByOrderId/SearchByOrderIdResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/model/response/oldSOM/searchByOrderId/SearchByOrderIdResponse_Failure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/service/utils/GeneralUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/java/com/scm/service/utils/oldSOM/SearchByOrderIdBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/config/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/library/jms-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/library/ojdbc7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/library/tibjms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/xmlsuites/oldSOMTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/test/java/com/scm/view/testcase/oldSOM/TestOldSomSearchByParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/endToEnd/BrowserCapability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/endToEnd/ConstructHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/endToEnd/ListingScreenFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/endToEnd/WebUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/Launch_Browser_Safari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/Launch_Chrome_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/Launch_Firefox_Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/Launch_RemoteDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/ScrollImplemetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/Webhandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/launchBrowser/Launch_Chrome_Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/launchBrowser/Launch_Firefox_Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/GroceryOrderAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/RuntimeReporter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/RuntimeReporter/report.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/bootstrap-table.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/htmlreporter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/jquery.lightbox-0.5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/css/treeview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/40px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/Sorting icons.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/lightbox-blank.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/lightbox-btn-close.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/lightbox-btn-next.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/lightbox-btn-prev.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/lightbox-ico-loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/selion-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/selion-horiz-notag.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/images/throbber.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/htmlreporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/jquery.lightbox-0.5.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/jstree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/readmore.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/render.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="22lVSa5ln6b4acTsRFZpOm1pg6H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Launch_Chrome_Browser">
+    <configuration name="Launch_Browser_Safari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="launchBrowser.Launch_Browser_Safari" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="launchBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launch_Chrome_Browser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="launchBrowser.Launch_Chrome_Browser" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="launchBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launch_Firefox_Browser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="launchBrowser.Launch_Firefox_Browser" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="launchBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Launch_RemoteDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="launchBrowser.Launch_RemoteDriver" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="launchBrowser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launch_Chrome_Browser" />
+        <item itemvalue="Application.Launch_RemoteDriver" />
+        <item itemvalue="Application.Launch_Browser_Safari" />
+        <item itemvalue="Application.Launch_Firefox_Browser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95eefb5e-e8b9-45b7-9a83-ec4d016be2fe" name="Changes" comment="" />
+      <created>1640412162604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640412162604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/launchBrowser/Launch_Chrome_Browser.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
