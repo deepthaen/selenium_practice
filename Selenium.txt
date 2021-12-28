@@ -1,0 +1,162 @@
+*****************Topics************
+Remote driver
+Difference Between Webdriver and Remote Driver
+Element is enabled or disabled
+Clickable or not clickable
+Run using Headless browser
+Wait for page to load
+
+Locators - ID, Name, Xpath, Css Selctor
+---By.id("firstName");  ---><input required="" autocomplete="off" placeholder="First Name" type="text" id="firstName" class=" mr-sm-2 form-control">
+
+---By.name("gender");  --------><input name="gender" >
+---By.className("practice-form-wrapper");  --> <div class="practice-form-wrapper">
+---<a id="simpleLink" href="https://www.demoqa.com" target="_blank">Home</a>
+---By.linkText("Home");
+---By.partialLinkText("Ho");
+------>By.tagName("a");
+-- css selector -- <input autocomplete="off" placeholder="Full Name" type="text" id="userName" class=" mr-sm-2 form-control">
+-- css=(HTML Page)[Attribute=Value] -->By.cssSelector("input[id= ‘userName’]");
+--->//tag_name[@attribute_value]
+//input[@id='userName']  ---> By.xpath("//input[@id='userName']");
+
+
+
+
+
+
+switchFrame - index,value,element
+handlePopUp
+    Hidden popup
+    On screenpopup
+    Auth popup
+    windows popup
+    browser popup
+handleBrowserPopUp
+webdriver waits
+    isElementClickbale
+    isElementPresent
+    isEelementEnable
+
+    Default methods under findelements
+ isdisplayed
+ isdisabled
+ is enebaled
+ is selected
+
+fileUpload
+fileDownload
+    robot
+    capabilities
+fileDownloadSpecificLocation
+
+Excel Read
+Read data from csv
+Write data to Excel and csv
+
+CSV read and write
+Testng - ammotaions
+Data provider
+Read dat from Testng parameters
+Read data from maven parameters
+Remote driver
+Reports
+
+// Lets work today- ok
+
+mean while u see other work, i will come in 10 min
+u practic, i will also see how u practice
+i m unable to click on anythin
+u try click on webutilc clas
+
+
+TestNG
+    test Next Generation
+
+    Annotation @ ::
+        Override methods or a constructor or a object or implments
+        pulbic class A extends B
+
+        @Test
+        @before test
+        @after test
+        @before suite
+        @after suite
+        @before method
+        @after method
+        @before class
+        @after class
+            invocation count
+            thread
+            priority
+            groups
+            dependson
+        Skeliton for testng.cml
+            <suite>
+                <Parameters> </parmeters>
+                <test>
+                    <clasess>
+                        </class org.selenium.som.login.java/>
+                    </clasess>
+                </test>
+            </suite>
+
+        Parallel
+        Data provider
+        Thread
+        Eventlistners
+        Itext listners
+        Ireporter
+        TestContext
+
+    TestNg ::
+        framework -- they have used some design pattern to build different cpabilities to achive something in selenium
+        Library
+        Jar
+        it came from Junit methology
+
+      -- it acts as a main method
+      -- we can run multiple test at a same time or sequencly
+      -- it has default listners
+      -- it has default emailable report
+      -- running before main method and after main emthod
+      -- it can be parameterised -- testng.xml
+      -- to execute in different data -- it has data provider
+      -- it supports priority
+      -- invocation count
+
+
+   Pre Request For TestNg::
+      -- Download TestNg jar
+      -- add dependency in maven or gradle
+      -- add jar in depdency module
+
+   How to Run ::
+    -- either directly in java class- if it has @Test we can run
+    -- Run via testNG.xml suite
+
+
+    Different annotations::
+
+        Before Grouops
+        Before Suite
+        Before test
+        Before class
+        Before Method
+        Test
+        After method
+        after class
+        After Test
+        After Suite
+        After Grouops
+
+    Ignore Test ::
+        -- we can even ignore tests
+        @Test(enabled=false)
+
+    Groups ::
+
+
+
+
+

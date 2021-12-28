@@ -1,18 +1,23 @@
 package endToEnd;
 
 import org.apache.commons.io.FileUtils;
+import org.apache.http.auth.Credentials;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.safari.SafariDriver;
 import org.openqa.selenium.support.ui.*;
 
 import javax.annotation.Nullable;
+import java.awt.*;
+import java.awt.event.KeyEvent;
 import java.io.File;
 import java.io.IOException;
-import java.util.Iterator;
+import java.security.Principal;
+import java.util.*;
 import java.util.List;
-import java.util.Set;
 import java.util.concurrent.TimeUnit;
 import java.util.function.Function;
 
@@ -45,7 +50,7 @@ public class WebUtil {
     private static final String PASSWORD = "";
     private static final String SCREENSHOT_PATH = "";
     private static final String CHROME_PATH = "/Users/deeptha.naik/Downloads/chromedriver2";
-    private static final String GECKO_PATH = "";
+    private static final String GECKO_PATH = "/Users/deeptha.naik/Downloads/geckodriver2";
     private static final String SAFARI_PATH = "";
 
     public static WebDriver driver;
@@ -64,6 +69,18 @@ public class WebUtil {
                 System.setProperty("webdriver.chrome.driver",CHROME_PATH);
                 driver = new ChromeDriver(setChromeCapabilities());
                 break;
+
+            case "FIREFOX":
+                System.setProperty("webdriver.gekco.driver", GECKO_PATH);
+                driver = new FirefoxDriver(setChromeCapabilities());
+                break;
+            case "SAFARI":
+                System.setProperty("webdriver.safari.driver", SAFARI_PATH);
+                driver = new SafariDriver(setChromeCapabilities());
+                break;
+
+
+
         }
         return  driver;
     }
@@ -197,6 +214,8 @@ public class WebUtil {
         System.out.println("select option from dropdown by value");
         Select select = new Select(element);
         select.selectByValue(input);
+        select.selectByIndex(4);
+        select.selectByVisibleText(input);
     }
     public static Set<String> getWindows(){
         System.out.println("get window control");
@@ -224,9 +243,20 @@ public class WebUtil {
         System.out.println("switcing back to parent window");
         driver.switchTo().window(parentWindow);
     }
+    public static void windowHandling(){
+        //Get Current Window
+        //Switch Window to child
+        // Switch back to main window
 
+        //Get Current Window
+        String currentWindow = driver.getWindowHandle();
+        Set<String> windows = driver.getWindowHandles();
+        windows.iterator();
+
+    }
 
     public static void switchFrame(){}
+
     public static void getUrl(String URL){
         System.out.println("Get url" + URL);
         driver.get(URL);
@@ -271,11 +301,122 @@ public class WebUtil {
         findElement(locator,xpath).getText();
     }
 
-    public static void getAttribute(String locator, String xpath, String){
+    public static void getAttribute(String locator, String xpath){
         System.out.println("Get Attribute of WebElement :: "+ locator);
         findElement(locator, xpath).getAttribute(locator);
     }
 
+
+    public static void switchFrameIndex(int index){
+        driver.switchTo().frame(index);
+    }
+
+    public static void switchWithvalue(String value){
+
+        driver.switchTo().frame(value);
+    }
+
+    public static void switchWithElement(WebElement element){
+
+        driver.switchTo().frame(element);
+    }
+
+
+    public static void handlePopup(){
+        //hidden popup
+        //alert popup
+        //on screen popup
+        // browser popup
+        // authentication popup --
+        // //window popup
+    }
+
+    public static void hidenPopup(){
+        driver.switchTo().alert().accept();
+    }
+
+    public static void alertPopup(){ // frame or any link on browser
+
+    }
+
+    public  static void onScreenPopup(){
+        driver.findElement(By.id("elemet")).click();
+    }
+
+    public static void browserPopup(){
+        ChromeOptions op= new ChromeOptions();
+        op.addArguments("-- disable notifications");
+    }
+    public static void authPopup(){
+        String username="deeptha.en";
+        String password="1234567";
+        String url ="https://"+username+":"+password+"@"+"www.nnnow.com";
+        driver.get(url);
+
+        //other way
+        driver.switchTo().alert().sendKeys("");//UFT-8
+    }
+    public static void windowsPopup() throws AWTException {
+        Robot robot= new Robot();
+
+        //Accept
+        robot.keyPress(KeyEvent.VK_ENTER);
+        robot.keyRelease(KeyEvent.VK_ENTER);
+
+        //Cancel
+        robot.keyPress(KeyEvent.VK_SHIFT);
+        robot.keyPress(KeyEvent.VK_TAB);
+        robot.keyRelease(KeyEvent.VK_SHIFT);
+        robot.keyRelease(KeyEvent.VK_TAB);
+        robot.keyPress(KeyEvent.VK_ENTER);
+        robot.keyRelease(KeyEvent.VK_ENTER);
+    }
+
+
+    public static void isElementnClicakable(WebElement element){
+        WebDriverWait wait = new WebDriverWait(driver,30);
+        wait.until(ExpectedConditions.elementToBeClickable(element));
+
+    }
+
+    public static void isElementnPresent(WebElement element){
+        WebDriverWait wait = new WebDriverWait(driver,30);
+        wait.until(ExpectedConditions.visibilityOf(element));
+    }
+
+    public static void isEnabled(){
+        findElement("ID","").isEnabled();
+    }
+    public static void isDisplayed(){
+        findElement("ID","").isDisplayed();
+    }
+
+    public static void fileUploads(){
+        findElement("xpath","//span[tex()='Upload Excel']")
+                .sendKeys("/users/downloads/somuolosd.xlsx");
+    }
+
+    public static void dowload(){
+        //using robot class
+        //usoing browser capabilities
+
+        ChromeOptions options = new ChromeOptions();
+
+        Map<String,Object> pref = new HashMap<>();
+        pref.put("download.prompt_for_download",false);
+        options.setExperimentalOption("prefs",pref);
+        driver = new ChromeDriver(options);
+    }
+
+    public static void dowload_to_specificPath(){
+        String path ="users/download/som";
+        ChromeOptions options = new ChromeOptions();
+        Map<String,Object> pref = new HashMap<>();
+        pref.put("profile.default_content_settings.popus",0);
+        pref.put("download.default_directory",path);
+        options.setExperimentalOption("prefs",pref);
+        driver = new ChromeDriver(options);
+    }
 
     public static void main(String[] args) throws IOException {
         launchBrowser("CHROME");
@@ -304,6 +445,7 @@ public class WebUtil {
         close();
         quite();
     }
+
 
 
 

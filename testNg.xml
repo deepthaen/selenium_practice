@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SOM">
+    <test name="OLD SOM"><?xml version="1.0" encoding="UTF-8" ?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+        <suite name="SOM">
+            <test name="OLD SOM">
+                <!-- Groups-->
+                <groups>
+                    <run>
+                        <include name="REGRESSION"/>
+                        <include name="FUNCTIONAL"/>
+                    </run>
+                </groups>
+                <!-- class execution-->
+                <classes>
+                    <class name="testNg.TestnG_Groups"></class>
+                    <class name="testNg.testNgBasic"></class>
+                </classes>
+            </test>
+
+        </suite>
+        <!-- Groups-->
+        <groups>
+            <run>
+                <include name="REGRESSION"/>
+                <include name="FUNCTIONAL"/>
+            </run>
+        </groups>
+        <!-- class execution-->
+        <classes>
+            <class name="testNg.TestnG_Groups"></class>
+            <class name="testNg.testNgBasic"></class>
+        </classes>
+    </test>
+
+</suite>

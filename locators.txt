@@ -1,0 +1,17 @@
+Login - //span[text()='Login']
+css
+Email - //div[contains(text(),'Enter your Phone / Email')]/../div[2]/input
+Email COntinue - //button[text()='CONTINUE']
+Passwaord - //div[contains(text(),'Password*')]/../div[2]/input
+Continue - //button[text()='CONTINUE']
+
+WOmen - //span[text()='WOMEN']
+tops & tshirt - //a[text()='Tops & T-Shirts']
+
+Store Locator - //span[contains(text(),'Store Locator')]
+Get App - //span[contains(text(),'Get APP')]
+Search NNNow - //form[@class='nw-searchbar-form']
+Heart - //i[@class='icomoon-heart-o nw-favoriteslink-icon ']
+Bag - //i[@class='icomoon-bag1 nw-mybagbutton-icon']
+
+
