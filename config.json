@@ -1,0 +1,21 @@
+{
+  "name": "Deeptha",
+   "Company": {
+     "id" : 1,
+     "City": "Bangalore"
+   },
+  "Address": "Bangalore",
+  "Locailty": [
+    {
+      "Street" : "Bellandur",
+      "pincode" : 560108
+    }
+  ]
+
+
+
+}
+
+
+
+

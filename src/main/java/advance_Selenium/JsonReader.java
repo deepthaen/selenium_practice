@@ -13,23 +13,23 @@ import java.io.InputStream;
 
 public class JsonReader {
 
-    public static void jsonReader() throws IOException, JSONException {
+    public static void jsonReader() throws IOException, JSONException, org.json.JSONException {
 
         InputStream input = new FileInputStream("./config.json"); // Reading from file
         String jsonString = IOUtils.toString(input); // converting file data to string
 
         System.out.println(jsonString); // reading complete json String
 
-//        JSONObject json = new JSONObject(jsonString); // string to JSON OBJECT
-//        JSONObject data = json.getJSONObject("data"); // reading data object
-//
-//        System.out.println(data.getString("BROWSER"));
-//        System.out.println(data.get("URL").toString());
+        JSONObject json = new JSONObject(jsonString); // string to JSON OBJECT
+        JSONObject data = json.getJSONObject("data"); // reading data object
+
+        System.out.println(data.getString("BROWSER"));
+        System.out.println(data.get("URL").toString());
 
     }
 
 
-    public static void main(String[] args) throws IOException, JSONException {
+    public static void main(String[] args) throws IOException, JSONException, org.json.JSONException {
         jsonReader();
     }
 }

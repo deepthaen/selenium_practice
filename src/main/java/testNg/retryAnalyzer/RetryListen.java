@@ -12,9 +12,9 @@ public class RetryListen implements IAnnotationTransformer {
     public void transform(ITestAnnotation annotation,
                           Class testClass,
                           Constructor testConstructor, Method testMethod) {
-        annotation.getRetryAnalyzerClass();
-        if(retry==null){
+
+
             annotation.setRetryAnalyzer(RetryCaptur.class);
-        }
+
     }
 }

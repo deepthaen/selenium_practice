@@ -37,7 +37,7 @@ public class ReadExcel {
 
 
 
-    public static void writeExcel( String uniqTC,String header,String cellVlaue) throws IOException {
+    public static void writeExcel( String uniqTC,String header,String Vlaue) throws IOException {
         FileInputStream file = new FileInputStream("./data.xlsx"); // read fil
         Workbook wb= WorkbookFactory.create(file); // workbook facotry of file
         Sheet sheet = wb.getSheet("Sheet1");// get sheet name
@@ -52,7 +52,7 @@ public class ReadExcel {
                 for (int i = 0; i < cellcount; i++) { // i will iterate till Last cell of row
                     String key = rowHeader.getCell(i).toString(); // from header get each cell (username, password)
                     if(key.equalsIgnoreCase(header)) {
-                        rowData.createCell(i).setCellValue(cellVlaue); // for each data of TC1 get cell value (12345,paswrod1234)
+                        rowData.createCell(i).setCellValue(Vlaue); // for each data of TC1 get cell value (12345,paswrod1234)
                         break;
                     }
                 }
@@ -63,7 +63,7 @@ public class ReadExcel {
     //jghjjljhgkjhgiuhjib
 
     public static void main(String[] args) throws IOException {
-        HashMap<String, String> dataMap = readExcel("TC!");
+        HashMap<String, String> dataMap = readExcel("TC1");
         dataMap.get("USERNAME");
         dataMap.get("PASSWORD");
     }

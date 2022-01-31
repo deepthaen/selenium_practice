@@ -5,14 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95eefb5e-e8b9-45b7-9a83-ec4d016be2fe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/API_Documention.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/ApiNotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/aPIPractice/BasicPratice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/aPIPractice/BasicPratice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/aPIPractice/MadularPratice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/aPIPractice/ModularPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/advanceRest/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/advanceRest/PojoReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/advanceRest/PropertyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/advanceRest/RestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/advanceRest/RestImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/advanceRest/RunRestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/model/LoginPayload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/model/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/model/optimisedModel/LoginReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practice2/ApiPractice_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practice2/ModularAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practice2/PracticeBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/PojoRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/RestCOntrollers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/RestImplemention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/RestTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/pojo/LoginPaylad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/practiceAdvanceRest/pojo/LoginReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ApiAutomation/src/main/java/restAssured/BasicRest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/cucumber.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/cucumber_Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/src/main/java/runner/PraticeTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/src/main/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/src/main/java/stepDefs/LoginStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/src/main/java/stepDefs/WebUtilStepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/target/classes/runner/TestRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cucumber/target/test-classes/features/login.feature" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/runConfigurations.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Java_Pratice/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Pratice/Java_Pratice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Pratice/src/dsAlgo/queue/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Java_Pratice/src/selenium/launchBrowser/LuanchFireFox.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pratice_Java_Interview/.idea/modules.xml" afterDir="false" />
@@ -44,6 +89,42 @@
       <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/release.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/schedule.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Pratice_SOM/xml/singleLineOrder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/programmingQuestions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/PowerOfN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/SquareRootOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/DuplicatesArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/LeftRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/MaxMinArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/MissingNumArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/RevereseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/RightRotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/arraysPrograms/SumOfNNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/FibonicSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/PalindromNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/PrimeNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/numbericPrograms/SwapNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/CharToAscii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/DuplicateCharInStringAndCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/ReplaceOnlyCHaracter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/ReplaceOnlyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/ReplaceSpecialCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/ReverseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProblemSloving/src/main/java/problemSloving/stringsPrblms/palidromStrig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SOM.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/constants/Constants.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SOM/src/main/java/com/som/controllers/BaseTest.java" afterDir="false" />
@@ -84,39 +165,48 @@
       <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/log4j.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/main/resources/xmlsuites/oldSOMTest.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../SOMAutomation/src/test/java/com/scm/view/testcase/oldSOM/TestOldSomSearchByParams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/locators.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/CheomOptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/CsvRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/GeneriCLaunchBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/JsonReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/Nnnow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/PropertyReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/ReadExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/endToEnd/Selenium_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_DepenedsOn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_InvocationCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_Listners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_Parallel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_Parameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestNg_Skip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestnG_Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/TestnG_disable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/listners/LoginTest_Using_listners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/listners/TestNg_Listerner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/retryAnalyzer/RetryCaptur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/retryAnalyzer/RetryListen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/retryAnalyzer/RetryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/testNgBasic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/testNg_Assertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/testNg_AssetFail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG_Parameter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG_retry.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNg_Parallel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/Execel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/Json_Pratice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/Property_Pratice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/XlxsRead.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/jsonRe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/propertyFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/launchBrowser/SwitchWibdows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practice/Practice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/dataProvider/PreRequestDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/dataProvider/testNgDataProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/testng_Practice/TestNg_Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/testng_Practice/Testng_Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNg/testng_Practice/Testng_dependnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/Execel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/Json_Pratice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/Property_Pratice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/XlxsRead.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/jsonRe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/propertyFiles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testNg/dataProvider/PreRequestDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testNg/dataProvider/testNgDataProvider.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testNg/testng_Practice/TestNg_Basics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testNg/testng_Practice/Testng_Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/testNg/testng_Practice/Testng_dependnce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNg_package.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/MONGO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/SQL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/src/main/java/modularSql/ModularOJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/src/main/java/org/sql/com/SqlStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/src/main/resources/library/ojdbc7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/target/classes/library/ojdbc7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SqlProject/target/classes/org/sql/com/SqlStart.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/GroceryOrderAutomation.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/RuntimeReporter/index.html" afterDir="false" />
@@ -157,11 +247,48 @@
       <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/main.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/readmore.min.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TMSAutomation/GroceryOrderCreationSuite/test-output/js/render.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/src/main/java/webDriverManager/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/src/test/java/ajio/functional/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/common/dataHandling/PropertyReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/config/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/globalConfig/Constants.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/capabilities/ChromeCapabilities.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/driverHandling/DriverController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/driverHandling/DriverImplementation$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/driverHandling/DriverImplementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/pageHelper/WebPageController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webDriverManager/pageHelper/WebPageImplementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webPageHelpers/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webutils/models/Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/classes/webutils/models/Locators.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebAutomation_AJIO/target/test-classes/ajio/functional/LoginTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/Java_Pratice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/MANUAL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/PracticeImple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/Encap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/EncapImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/OverRdimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/OverRid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/OverRidImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/OverRider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/practice_one/overlo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_practice/src/praticeSession/program_pratice/MiniumNumberStack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advance_Selenium/JsonReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/JsonReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advance_Selenium/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/PropertyReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/advance_Selenium/ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/advance_Selenium/ReadExcel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/endToEnd/WebUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/endToEnd/WebUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testNg/retryAnalyzer/RetryListen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testNg/retryAnalyzer/RetryListen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/advance_Selenium/JsonReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/JsonReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/advance_Selenium/PropertyReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/PropertyReader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/advance_Selenium/ReadExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/advance_Selenium/ReadExcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/retryAnalyzer/RetryCaptur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/retryAnalyzer/RetryCaptur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testNg/retryAnalyzer/RetryListen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testNg/retryAnalyzer/RetryListen.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +331,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -212,16 +339,29 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG./Users/deeptha.naik/eclipse-workspace/Selenium/testNG_retry.xml">
-    <configuration name="LoginTest_Using_listners" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advance_Selenium.ReadExcel" />
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testNg.listners.*" />
+          <option name="PATTERN" value="advance_Selenium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testNg.listners" />
-      <option name="MAIN_CLASS_NAME" value="testNg.listners.LoginTest_Using_listners" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNg_Basics" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNg.testng_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNg.testng_Practice" />
+      <option name="MAIN_CLASS_NAME" value="testNg.testng_Practice.TestNg_Basics" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -229,53 +369,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTest_Using_listners.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNg_Basics.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testNg.listners.*" />
+          <option name="PATTERN" value="testNg.testng_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testNg.listners" />
-      <option name="MAIN_CLASS_NAME" value="testNg.listners.LoginTest_Using_listners" />
-      <option name="METHOD_NAME" value="loginTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RetryTest.testRetry" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testNg.retryAnalyzer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testNg.retryAnalyzer" />
-      <option name="MAIN_CLASS_NAME" value="testNg.retryAnalyzer.RetryTest" />
-      <option name="METHOD_NAME" value="testRetry" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNg_Print.report" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testNg.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testNg" />
-      <option name="MAIN_CLASS_NAME" value="testNg.TestNg_Print" />
-      <option name="METHOD_NAME" value="report" />
+      <option name="PACKAGE_NAME" value="testNg.testng_Practice" />
+      <option name="MAIN_CLASS_NAME" value="testNg.testng_Practice.TestNg_Basics" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -293,13 +397,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testNgBasic.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testNg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testNg" />
+      <option name="MAIN_CLASS_NAME" value="testNg.testNgBasic" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/deeptha.naik/eclipse-workspace/Selenium/testNG_retry.xml" />
-        <item itemvalue="TestNG.RetryTest.testRetry" />
-        <item itemvalue="TestNG.LoginTest_Using_listners" />
-        <item itemvalue="TestNG.LoginTest_Using_listners.loginTest" />
-        <item itemvalue="TestNG.TestNg_Print.report" />
+        <item itemvalue="TestNG.TestNg_Basics" />
+        <item itemvalue="TestNG.TestNg_Basics.test" />
+        <item itemvalue="TestNG.testNgBasic.test" />
+        <item itemvalue="Application.ReadExcel" />
       </list>
     </recent_temporary>
   </component>

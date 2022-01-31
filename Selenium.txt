@@ -157,6 +157,144 @@ TestNG
     Groups ::
 
 
+Questions ::
+    1. wt is testng
+    2. Can u name few usages of Testng
+    3. why we go for testng
+    4. Diff annotion
+    5. annaotions usage
+    6. write skeliton for testng.xml
+    7. groups
+    parallel
+    thread count
+    invocation count
+    priority
+    depends on methods
+    parameters
+    Listeners
+    Assertion
+    Skip test
+    retry
+
+Pending
+    data provider
+    Reports
+    WebDriver Even lister
+    ItextContext
+    IResult
+
+TestNg ---
+-It is an open source automated TestNG framework. In TestNG, NG stands for "Next Generation".
+- provides you full control over the test cases and the execution of the test cases.
+- came after Junit
+- It has annotations - @Test, @beforeTest @afterTest @Before SUite @afterSuite @beforePackage
+   @AfterPackage @before Class @afterclass @beforeMethos @afterMethod
+- @Test acts as main method, in one class we can have any number of @test
+- We can group multiple Tc and run
+- generate a  emailable report, and you can easily come to know how many test cases are passed,
+failed and skipped.
+>You can execute failed test case separately. For example.
+>Suppose, you have five test cases, one method is written for each test case
+(Assume that the program is written using the main method without using testNG).
+When you run this program first, three methods are executed successfully, and the
+fourth method is failed. Then correct the errors present in the fourth method, now you want
+to run only fourth method because first three methods are anyway executed successfully.
+This is not possible without using TestNG.
+>The TestNG provides an option, i.e., testng-failed.xml file in test-output folder.
+If you want to run only failed test cases means you run this XML file. It will execute
+only failed test cases.
+
+- generates the Logs.
+- run same TC Multiple times by invocation count
+-  suports parallel execution
+- Support Priority
+- Run Tc with different data using data provider
+
+
+
+
+Maven ::
+    what is maven ??
+        -- its a build tool
+        -- Its a open source where anyone can develop any source and publish in maven repository
+        -- It can be version managed based on new updates
+        -- if we set maven global url in our project settings, and if we add any dependecny, it will auto download
+        -- it will download to .m2 folde-- .m2/repository
+        -- we set url in .m2/reposirtory/settings.xml
+        -- and we shud set maven path in environment variable ass global
+        -- No jar needs to be mainatined
+        -- we can build
+        -- we can run
+        -- we can compile
+        -- we can install, clean
+        -- integrate with different projects
+        -- integrate with CI/CD
+        -- and it is light weight
+        --maven project can be converted to any kind of source(jar,gradle,testng)
+        -- it is independent - can run in any OS
+        -- GroupId, artifact, cversion, scope
+        -- XML - Extentionable markup lanaguague
+        -- project - it will refer in global link
+            -- if it s already presrnt local(.m2)-- it wont refer to global
+        -- groupId - pacakge
+        -- Artifact id - project name
+        -- pom.xml
+            project
+            dependencies
+            properties
+            goals
+            plugins
+        -- Distribution managment
+            global -- public available in world -- http://maven.apache.org/POM/4.0.0
+            local -- .m2/repository
+            Central  -- our organisation
+
+ Points to remember in maven ::
+    -- mainatin dependecies
+    -- version managments
+    -- build, run,set gols, test, clean, install
+    -- to mainatin light weight application
+    -- can convert to any source (jar,gradle,katalin)
+    -- central,local,public - Distrubted management
+    -- repositories - previous project
+    --To run in as package
+    -- run with parameter
+    -- integrate with jenkins
+    -- can run in remotly also
+    -- https://www.geeksforgeeks.org/introduction-apache-maven-build-automation-tool-java-projects/
+------->
+Maven -
+ - Its open Source project management build tool, based on POM
+ - Its Version based, as we update version it keep changing
+ - Its light weight and platform independent
+ - it can be convereted to jar or dependecy andcan be used in other project
+ - can be integrated with jenkins
+ - Its DIsutrubuted Managamenet -- global, local and central
+ - reusable, easy maintainable
+ - if we set maven global url in our project settings, and if we add any
+    dependecny, it will auto download
+   -  Downloaded libraries are stored in the local repository called m2
+ - Manages all project dependecy
+         POM.xml
+ <dependencies>
+ <dependency>
+ <groupId>com.loginradius.sdk</groupId>   --Generally groupId refers to domain id. For best practices company name
+ <artifactId>java-sdk</artifactId>      ---name of the Jar without version.
+ <version>3.2.0</version>  -- Version
+ </dependency>
+ </dependencies>
+
+ --> Maven Build Life cycle
+     -validate -  validate the project is correct and all necessary information is available
+     -COmpile -compile source code
+     -test - test source code using testing framework
+     -Package - take the compiled code and package it in its distributable format, such as a JAR.
+     -run - run compiled code and ensure quality criteria are met
+     -install -  install the package into the local repository,
+     -deploy - done in the build environment
+
+
+
 
 
 

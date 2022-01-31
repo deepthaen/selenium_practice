@@ -62,6 +62,7 @@ public class WebUtil {
         return options;
     }
 
+
     public static WebDriver launchBrowser(String browser){
         System.out.println("Launching chrome Browser");
         switch (browser){
@@ -146,6 +147,10 @@ public class WebUtil {
                 break;
             case "XPATH":
                 element = driver.findElement(By.xpath(""));
+                break;
+            case "CSS SELECTOR":
+                element = driver.findElement(By.cssSelector(pathValue));
+                //By.cssSelector(tag[attribute='value'])
                 break;
             default:
                 throw new IllegalStateException("Unexpected value: " + locator);

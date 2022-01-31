@@ -5,23 +5,18 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
 
-public class PropertyReader {
+public class propertyFiles {
 
-
-
-
-    public static String readProperty(String key) throws IOException {
+    public static String getProperty(String key) throws IOException {
         Properties prop = new Properties();
         prop.load(new FileInputStream("./config.properties"));
-        String response = prop.getProperty(key);
-        return response;
+        String res = prop.getProperty(key);
+        return res;
+
     }
 
-
     public static void main(String[] args) throws IOException {
-
-        String browser = readProperty("BASEURL");
-        System.out.println(browser);
-
+        String val =getProperty("BASEURL");
+        System.out.println(val);
     }
 }
